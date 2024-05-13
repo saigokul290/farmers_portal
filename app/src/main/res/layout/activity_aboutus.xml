@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@drawable/back"
+    android:foregroundGravity="center"
+    tools:context=".AboutusActivity">
+
+    <TextView
+        android:id="@+id/textView29"
+        android:layout_width="0dp"
+        android:layout_height="50sp"
+        android:background="#087E7A"
+        android:gravity="center"
+        android:text="@string/about"
+        android:textColor="#FFFFFF"
+        android:textSize="22sp"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.0"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent"
+        app:layout_constraintVertical_bias="0.0" />
+
+    <TextView
+        android:id="@+id/textView32"
+        android:layout_width="122dp"
+        android:layout_height="57dp"
+        android:layout_marginTop="20dp"
+        android:background="#673AB7"
+        android:backgroundTint="#673AB7"
+        android:gravity="center"
+        android:text="@string/about"
+        android:textColor="#FFFFFF"
+        android:textSize="25sp"
+        android:textStyle="bold|italic"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.498"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/textView29"
+        app:layout_constraintVertical_bias="0.096" />
+
+    <TextView
+        android:id="@+id/textView69"
+        android:layout_width="382dp"
+        android:layout_height="165dp"
+        android:background="#F0FFFFFF"
+        android:fontFamily="sans-serif-medium"
+        android:gravity="bottom|clip_horizontal|center|clip_vertical|right|fill"
+        android:includeFontPadding="true"
+        android:text="IF YOU HAVE ANY QUERIES RELATED TO ADDING ITEMS TO THE PLEASE CONTACT US BY CLICKING BELOW BUTTON"
+        android:textColor="#151515"
+        android:textSize="20sp"
+        android:textStyle="bold|italic"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.551"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/textView32"
+        app:layout_constraintVertical_bias="0.33" />
+</androidx.constraintlayout.widget.ConstraintLayout>
