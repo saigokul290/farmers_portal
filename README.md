@@ -2,6 +2,11 @@
 
 The Farmer-Buyer Crop Selling App is an Android application designed to connect farmers with potential buyers for efficient and transparent crop sales. The app leverages modern technology and mobile connectivity to bridge the gap between farmers and buyers, revolutionizing the traditional crop selling process.
 
+## Contributors
+- SAI GOKUL K P (saigokulkp29@outlook.com)
+- ROHAN S (rohansati04@gmail.com)
+- ROSHAN IMMANUEL (roshan7156@gmail.com)
+  
 ## Features
 - **Direct Connections:** Connect farmers directly with buyers.
 - **Transparent Transactions:** Enhance transparency in crop sales.
@@ -31,8 +36,4 @@ The Farmer-Buyer Crop Selling App is an Android application designed to connect 
 2. Browse crops/products or list crops/products for sale.
 3. Connect with buyers or farmers directly for transactions.
 
-## Contributors
-- SAI GOKUL K P (saigokulkp29@outlook.com)
-- ROHAN S (rohansati04@gmail.com)
-- ROSHAN IMMANUEL (roshan7156@gmail.com)
 
